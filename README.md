@@ -1,16 +1,14 @@
-### Hi there 👋
+# 안녕하세요! 👋
 
-<!--
-**yamji/yamji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 경영학을 전공하고 컴퓨터공학을 부전공으로 공부하면서 웹 개발에 대한 열정을 발견한 개발자입니다. 웹 개발자로서의 경력을 쌓아가고 있으며, 다양한 프로그래밍 언어와 기술을 활용하여 프로젝트를 성공적으로 수행해왔습니다.
 
-Here are some ideas to get you started:
+## 🛠 기술 스택
+- **프로그래밍 언어:** Java, JavaScript, Python
+- **프레임워크 및 기술:** Spring, Spring Boot
+- **웹 개발:** HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 수상 이력
+- **대한민국 SW융합 해커톤 대회 대상**
+
+## 💼 경력 목표
+현재는 다양한 웹 기술을 배우고 익히는 데 집중하고 있으며, 향후에는 전문적인 웹 개발자로서 다양한 프로젝트와 도전을 통해 성장하고 싶습니다.
